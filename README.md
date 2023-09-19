@@ -33,6 +33,7 @@ The dataset comprises of information on the following parameters:
 - products
 - departments
 - customers
+  
 Note: Not all the datasets have been added to this repository due to size upload restrictions.
 
 ## Tools
